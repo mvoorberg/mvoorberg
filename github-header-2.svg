@@ -17,11 +17,9 @@
     <text alignment-baseline="middle" text-anchor="middle"
        ><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#e6e6e6"
-         alignment-baseline="middle"
-         text-anchor="end"
          y="50%"
          x="50%"
-         >My name is <tspan style="font-weight:bold" text-anchor="start">Mark Voorberg</tspan>.</tspan></text>
+         >My name is <tspan style="font-weight:bold" alignment-baseline="middle" text-anchor="start">Mark Voorberg</tspan>.</tspan></text>
 
     <text alignment-baseline="middle" text-anchor="middle"
        ><tspan
@@ -30,7 +28,7 @@
          text-anchor="end"
          y="75%"
          x="50%"
-         >I dream <tspan style="font-weight:bold" text-anchor="start">in code</tspan>.</tspan></text>
+         >I dream <tspan style="font-weight:bold" alignment-baseline="middle" text-anchor="start">in code</tspan>.</tspan></text>
     </svg>
   </g>
 </svg>
