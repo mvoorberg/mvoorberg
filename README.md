@@ -1,4 +1,4 @@
-<img src="https://github.com/mvoorberg/mvoorberg/raw/master/github-header-2.svg" alt="My name is Mark Voorberg. I dream in code." width="100%" />
+<img src="https://github.com/mvoorberg/mvoorberg/raw/master/hello_mark.svg" alt="My name is Mark Voorberg. I dream in code." width="100%" />
 <br />
 
  I’m currently working on [LogMonster.net](https://logmonster.net) and [TransomJS](https://transomjs.github.io/).
