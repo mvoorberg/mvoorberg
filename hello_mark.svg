@@ -1,0 +1,32 @@
+<svg width="1200px" height="250px">
+  <g transform="translate(5,5)">
+    <!-- rectangle is smaller by stroke-width -->
+    <rect rx="10" ry="10" width="1190" height="240" stroke="green" fill="green" stroke-width="10"/>
+
+    <svg width="1200px" height="250px">
+      <text
+       style="font-weight:normal;font-size:72px;font-family:AppleColorEmoji, 'Apple Color Emoji';fill:#7c8595"
+       font-weight="normal"
+       font-size="72"
+         alignment-baseline="middle"
+         text-anchor="middle"
+       ><tspan y="50%" x="15%">👋</tspan></text>
+
+    <text alignment-baseline="middle" text-anchor="middle"
+       ><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#e6e6e6"
+         y="50%"
+         x="50%"
+         >My name is <tspan style="font-weight:bold" alignment-baseline="middle" text-anchor="start">Mark Voorberg</tspan>.</tspan></text>
+
+    <text alignment-baseline="middle" text-anchor="middle"
+       ><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#e6e6e6"
+         alignment-baseline="middle"
+         text-anchor="end"
+         y="75%"
+         x="50%"
+         >I dream <tspan style="font-weight:bold" alignment-baseline="middle" text-anchor="start">in code</tspan>.</tspan></text>
+    </svg>
+  </g>
+</svg>
