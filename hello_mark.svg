@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="1200px" height="250px">
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200px"
+   height="250px"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="hello_mark-x.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <g transform="translate(5,5)">
     <!-- rectangle is smaller by stroke-width -->
     <rect rx="10" ry="10" width="1190" height="240" stroke="green" fill="green" stroke-width="10"/>
